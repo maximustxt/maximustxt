@@ -46,7 +46,7 @@ Soy una persona proactiva y enérgica que busca constantemente nuevos desafíos 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
 <a href="https://expressjs.com" target="_blank"><img src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" background-color="#ffffff" alt="express" width="50" height="50" /> </a>
-<a href="https://insomnia.rest/" target="_blank"> <img src="https://insomnia.rest/images/insomnia-logo.svg" alt="postman" width="40" height="40" /> </a>
+<a href="https://insomnia.rest/" target="_blank"> <img src="https://github.com/get-icon/geticon/blob/master/icons/insomnia.svg" alt="postman" width="40" height="40" /> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
 <a href="https://sequelize.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/file-type-sequelize-icon-443x512-ck0z81j3.png" alt="kotlin" width="40" height="40" /> </a> 
 
