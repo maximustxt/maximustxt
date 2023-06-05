@@ -29,7 +29,6 @@
 • Insomnia
 • PostgreSQL
 • Sequelize
-• Firebase
 • Git
 
 </div>
@@ -46,6 +45,5 @@
 <a href="https://insomnia.rest/" target="_blank"> <img src="https://github.com/get-icon/geticon/blob/master/icons/insomnia.svg" alt="insomnia" width="40" height="40" /> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
 <a href="https://sequelize.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/file-type-sequelize-icon-443x512-ck0z81j3.png" alt="kotlin" width="40" height="40" /> </a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
 <br></br>
