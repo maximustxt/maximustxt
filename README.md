@@ -9,7 +9,16 @@
 </p>
 
 - 📄 Actualmente cuento con experiencia desarrollando con tecnologías como React, Node, Express, Redux, Sequelize y PostgreSQL además me encanta el trabajo en equipo, la resolución de problemas y el constante aprendizaje. He terminado recientemente mi cursada del Bootcamp Henry y me encuentro en búsqueda laboral activa como fullstack, backend o frontend developer. 
+<br>
+ 
+</p>
+
+- ¿a donde me dirijo? 
+  Voy a crecer como desarrollador , ganar experiencias , aptitudes , Habilidades , y aportar al mundo con mis conocimientos.  
 <br></br>
+</p>
+    
+ </br>
 </p><h2 align="left">Contacto:</h2><p align="left"> 
   
 <p align="left">
