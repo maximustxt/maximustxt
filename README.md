@@ -127,8 +127,6 @@ Soy una persona proactiva y enérgica que busca constantemente nuevos desafíos 
       />
     </a>
 
-
-
 <br></br>
     
 ## Mis proyectos:
