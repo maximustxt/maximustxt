@@ -12,7 +12,7 @@
 <br>
  
 </p>
-
+<br/>
 - ¿a donde me dirijo? 
   Voy a crecer como desarrollador , ganar experiencias , aptitudes , Habilidades , y aportar al mundo con mis conocimientos.  
 <br></br>
