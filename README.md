@@ -8,8 +8,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Franco+Ezequiel+Oropel+Sottile++;Full-Stack-Web-Developer;&font=Fira%20Code&center=true&width=440&height=45&size=22""></a>
 </p>
 
-<p align="center"><em>¡Hola 🤙! Me llamo Franco, podes decirme Fran, tengo 22 años y soy Full Stack Developer.
-Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos en el mundo de la programación <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br></br>¡Me gustaria compartirte mis habilidades!</em></p>
+<p align="center"><em>¡Hola 🤙! Me llamo Ignacio,  tengo 18 años y soy Full Stack Developer.
+Soy una persona proactiva y enérgica que busca constantemente nuevos desafíos en el mundo de la programación <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br></br>¡Me gustaria compartirte mis habilidades!</em></p>
 
 <br></br>
 
@@ -17,7 +17,6 @@ Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos
  
 <div align="center">
 • Javascript
-• TypeScript
 • Git
 • React.js
 • Redux
@@ -25,11 +24,10 @@ Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos
 • CSS
 • NodeJs 
 • Express
-• Postman
+• insomnia
 • PostgreSQL
 • Sequelize
-• Webpack
-• Babel •
+
 
 </div>
 
@@ -73,6 +71,6 @@ Soy una persona proactiva y entusiasta que busca constantemente nuevos desafíos
 </p><h2 align="center">Contacto:</h2><p align="left"> 
   
 <p align="center">
-    <a href="https://www.linkedin.com/in/franco-oropel/" ><img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="Linkedin Logo" height="70" >
-    <a href="mailto:francooropel00@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
+    <a href="https://www.linkedin.com/in/ignacio-martin-339542263/" ><img src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" alt="Linkedin Logo" height="70" >
+    <a href="ignamartin2020@gmail.com" ><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" height="80" >
 </p>
