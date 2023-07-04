@@ -81,7 +81,7 @@
         alt="css3"
         width="40"
         height="40"
-        style="border-radius: 10px"
+        style="border-radius: 10"
       />
     </a>
 <br></br>
