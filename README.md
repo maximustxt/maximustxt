@@ -15,7 +15,7 @@
 
 - ¿a donde me dirijo? 
     <br/>
-  Voy a crecer como desarrollador , ganar experiencias , aptitudes , Habilidades , y aportar al mundo con mis conocimientos y hacer crecer mi canal de youtube , para compartir mis experiencias con todo el mundo.
+  Voy a crecer como desarrollador , ganar experiencias , aptitudes , Habilidades y aportar al mundo con mis conocimientos y hacer crecer mi canal de youtube , para compartir mis experiencias con todo el mundo.
 <br></br>
 </p>
     
